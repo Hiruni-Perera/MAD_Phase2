@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EASY APP</string>
+    <string name="newtask">Add a New Task</string>
+    <string name="create_task">create your task</string>
+    <string name="create_description">create your description</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_your_task">Edit Your Task</string>
+    <string name="edit_task">edit your task</string>
+    <string name="edit_description">edit your description</string>
+    <string name="update_task">Update Task</string>
+    <string name="task_count">You Have x Tasks Today</string>
+</resources>
